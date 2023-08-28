@@ -40,4 +40,8 @@
 40. dzidzia - małe dziecko
 41. liść
 42. lis
+43. mamy - przedmiot mamy
+44. taty - przedmiot taty
+45. du/ duda - nazwisko
+46. bim bam bom
 
